@@ -1,7 +1,7 @@
 # kyruus
 
 To add the header and footer please follow the below Instructions.
-Instructions:
+
 1. Add header.html code to the header file.
 2. Add footer.html code to the footer file
 3. Add the new style to the existing style.css file.
