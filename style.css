@@ -794,3 +794,8 @@
   .icon-facebook:before {
       content: "\e002";
     }
+.foot-btn.foot-ghost:hover {
+    background-color: #fff !important;
+    border-color: #fff;
+    color: #666 !important;
+}
