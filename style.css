@@ -444,7 +444,7 @@
     text-align: right;
     padding: 16px 30px;
     display: none;
-    margin-top: -70px;
+    margin-top: -65px;
     margin-left: 200px;
 }
   /*Hide checkbox*/
@@ -568,6 +568,21 @@
       background: #005e99;
       transition: 0.3s;
     }
+
+    .button1 {
+      padding: 1em 4.5em !important;
+      border-radius: 5px;
+      font-size: 0.87rem !important;
+  }
+  a.mp.mpmb {
+    margin-left: -15px;
+}
+a.pmb.mcu {
+    margin-left: -15px;
+}
+a.cu.phyicon1 {
+    margin-left: 15px;
+}
   }
   
    /**footer css **/
