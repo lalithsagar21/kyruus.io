@@ -52,8 +52,8 @@
     float: right;
     font-size: 1rem;
     font-weight: bold;
-    padding-top: 10px;
-  }
+    padding-top: 20px;
+}
   .navbar a {
     float: left;
     font-size: 16px;
@@ -439,13 +439,14 @@
     font-size: 14px;
   }
   /*Style 'show menu' label button and hide it by default*/
+
   .show-menu {
     text-align: right;
     padding: 16px 30px;
     display: none;
-    margin-top: -60px;
+    margin-top: -70px;
     margin-left: 200px;
-  }
+}
   /*Hide checkbox*/
   input[type=checkbox]{
     display: none;
@@ -794,8 +795,8 @@
   .icon-facebook:before {
       content: "\e002";
     }
-.foot-btn.foot-ghost:hover {
-    background-color: #fff !important;
-    border-color: #fff;
-    color: #666 !important;
-}
+    .foot-btn.foot-ghost:hover {
+        background-color: #fff !important;
+        border-color: #fff;
+        color: #666 !important;
+    }
