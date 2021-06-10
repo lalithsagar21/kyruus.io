@@ -40,7 +40,7 @@
      font-family: "proxima-nova", Arial, sans-serif;
    }
    .logo{
-    width: 200px;
+    width: 230px;
     padding: 10px;
     margin-left: 25px;
    }
@@ -560,11 +560,7 @@
     .dropdown-content:before {
       border-width: 0px;
     }
-    .logo {
-      width: 230px;
-      /* padding: 10px; */
-      margin-left: 25px;
-  }
+
     .dropdown-content a:hover {
       color: #18988b !important;
     }
