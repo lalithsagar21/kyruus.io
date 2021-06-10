@@ -52,7 +52,7 @@
     float: right;
     font-size: 1rem;
     font-weight: bold;
-    padding-top: 20px;
+    padding-top: 22px;
 }
   .navbar a {
     float: left;
@@ -561,10 +561,10 @@
       border-width: 0px;
     }
     .logo {
-      width: 160px;
-      padding: 10px;
-      margin-left: 5px;
-    }
+      width: 230px;
+      /* padding: 10px; */
+      margin-left: 25px;
+  }
     .dropdown-content a:hover {
       color: #18988b !important;
     }
